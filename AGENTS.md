@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep the portal frontend-only: browser history navigation and versioned localStorage hold demo state because no backend or third-party service is permitted.
